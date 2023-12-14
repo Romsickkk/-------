@@ -25,6 +25,7 @@ ul {
   list-style: none;
 }
 
+
 .category {
   margin-bottom: 16px;
 }
@@ -227,4 +228,8 @@ ul {
 .btn-category {
   width: 100%;
   background-image: none;
+}
+
+.hidden{
+  display: none;
 }
